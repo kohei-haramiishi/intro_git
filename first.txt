@@ -8,3 +8,6 @@ gitの勉強をします。
 
 
 git status
+
+
+.git diff
